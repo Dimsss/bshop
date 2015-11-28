@@ -1,10 +1,7 @@
-#
-build/*
+target/*
 #
 .git/*
 #
-.gradle/*
+.idea/*
 #
-.idea
-#
-Packetnews.iml
+bshop.iml
